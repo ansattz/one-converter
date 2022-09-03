@@ -4,10 +4,14 @@
 The currency converter has conversions from the Brazilian Real to the following foreign currencies: dollar, pound sterling, Argentine peso and Chilean peso. Also, the converter is applied from foreign currencies to real too.
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github.com/ansattz/one-converter/blob/master/src/main/brltogbp.png" alt="brl to gpb">
 </p>
 <p align="center">
   <img src="https://github.com/ansattz/one-converter/blob/master/src/main/27brltogbp.png" alt="brl to gpb">
+=======
+  <img src="https://github.com/ansattz/one-converter/blob/master/src/main/27brltogpb.png" alt="brl to gpb">
+>>>>>>> 0e11237b854670d81eddb1e613c7dc6fa1b5629b
 </p>
 
 The initial program for converting real to foreign currencies is done using a public class with 5 methods (all with void type, since the objective here is to perform only the conversions). The reverse process is done in the same way changing only the operations (multiplication). After creating the objects with the two classes in the Program class, another method is created to use the switch and allocate the operations that will be called by choice, at the user's choice. Through the swing toolkit, this screen will be called "Currency", obtaining all the options mentioned above.
