@@ -13,9 +13,9 @@ public class ToBrl {
       JOptionPane.showMessageDialog(null, "Reais: " + eur);
    }
 
-   public void gpbToBrl(double value) {
-      double gpb = Math.round(value * 5.95);
-      JOptionPane.showMessageDialog(null, "Reais: " + gpb);
+   public void gbpToBrl(double value) {
+      double gbp = Math.round(value * 5.95);
+      JOptionPane.showMessageDialog(null, "Reais: " + gbp);
    }
 
    public void arsToBrl(double value) {

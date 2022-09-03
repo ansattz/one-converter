@@ -14,11 +14,12 @@ public class Program {
             JOptionPane.PLAIN_MESSAGE, null, new Object[] {
                   "brl to dollar",
                   "brl to eur",
-                  "brl to gpb",
+                  "brl to gbp",
                   "brl to ars",
                   "brl to clp",
                   "dollar to brl",
                   "eur to brl",
+                  "gbp to brl",
                   "ars to brl",
                   "clp to brl" },
             "Choose")).toString();
@@ -31,7 +32,7 @@ public class Program {
          case "brl to usd":
             currency.brlToEur(value);
             break;
-         case "brl to gpb":
+         case "brl to gbp":
             currency.brlToGpb(value);
             break;
          case "brl to ars":
@@ -45,6 +46,9 @@ public class Program {
             break;
          case "eur to brl":
             brl.eurToBrl(value);
+            break;
+         case "gbp to brl":
+            brl.gbpToBrl(value);
             break;
          case "ars to brl":
             brl.arsToBrl(value);

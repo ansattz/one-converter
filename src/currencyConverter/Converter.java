@@ -15,7 +15,7 @@ public class Converter {
 
    public void brlToGpb(double value) {
       double gpb = Math.round(value / 5.95);
-      JOptionPane.showMessageDialog(null, "GPB: " + gpb);
+      JOptionPane.showMessageDialog(null, "GBP: " + gpb);
    }
 
    public void brlToArs(double value) {
