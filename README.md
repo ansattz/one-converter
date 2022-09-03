@@ -1,5 +1,13 @@
 # ONE CONVERTER - Challenge ONE [JAVA]
 
+For having completed the currency converter project of the oracle next education (ONE) program I was rewarded with the badge of this amazing programming language called JAVA. By the way, this year java has become my favorite language. I appreciate the support of the ONE program. Thank you [Oracle](https://www.oracle.com/) and [Alura](https://www.alura.com.br/).
+
+<p align="center">
+  <img src="https://github.com/ansattz/one-converter/blob/master/src/badge-java-one.png" alt="brl to gpb">
+ </p>
+
+
+
 ## :coin: Currency converter :coin:
 The currency converter has conversions from the Brazilian Real to the following foreign currencies: dollar, pound sterling, Argentine peso and Chilean peso. Also, the converter is applied from foreign currencies to real too.
 
